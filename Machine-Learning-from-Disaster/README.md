@@ -1,8 +1,8 @@
 **Titanic: Machine Learning from Disaster**
 **Start here! Predict survival on the Titanic and get familiar with ML basics**
-**竞赛链接**
+
+**简单入门级竞赛链接**
 <https://www.kaggle.com/c/titanic>
-**这是一个简单的入门级竞赛**
 
 **处理流程**
 
