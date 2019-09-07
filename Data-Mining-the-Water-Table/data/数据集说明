@@ -1,0 +1,45 @@
+训练集数据的字段说明：
+amount_tsh - 总静水压头（水位可用水量）
+date_recorded - 输入行的日期
+funder - 谁资助了这口井
+gps_height - 井的高度
+installer - 安装井的组织
+longitude - GPS坐标
+latitude - GPS坐标
+wpt_name - 如果有水点的名称
+num_private -
+basin - 地理水盆
+subvillage - 地理位置
+region - 地理位置
+region_code - 地理位置（编码）
+district_code - 地理位置（编码）
+lga - 地理位置
+ward - 地理位置
+population - 井周围的人口
+public_meeting - 真假
+recorded_by - 组输入此行数据
+scheme_management - 谁操作水点
+scheme_name - 谁操作水点
+permit - 如果允许水位
+construction_year - 水点构建年份
+extraction_type - waterpoint使用的提取方式
+extraction_type_group - waterpoint使用的提取方式
+extraction_type_class - waterpoint使用的提取方式
+management - 如何管理水点
+management_group - 如何管理水点
+payment - 水的费用是多少
+payment_type - 水的费用是多少
+water_quality - 水的质量
+quality_group - 水的质量
+quantity - 水量
+quantity_group - 水量
+source - 水源
+source_type - 水源
+source_class - 水源
+waterpoint_type - 那种水点
+waterpoint_type_group - 那种水点
+
+标签的字段说明
+functional - 水点正常运行，无需维修
+functional needs repair - 水点正在运行，但需要维修
+non functional - 水点无法运作
