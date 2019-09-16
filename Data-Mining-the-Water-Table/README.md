@@ -1,6 +1,7 @@
 **Pump it Up: Data Mining the Water Table**
 
-<https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table>
+**竞赛链接**
++ <https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table>
 
 **原始数据存在的一些问题**
 + 1.绝大多数特征都是分类变量，同时有4个数值特征，以及两个时间特征。
