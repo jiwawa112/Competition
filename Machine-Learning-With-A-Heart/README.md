@@ -4,7 +4,7 @@
 + <https://www.drivendata.org/competitions/54/machine-learning-with-a-heart>
 
 **竞赛排名**
-+ <img src="https://github.com/jiwawa112/Competition/raw/master/Machine-Learning-With-A-Heart/images/rank.png" width="500">
++ <img src="https://github.com/jiwawa112/Competition/raw/master/Machine-Learning-With-A-Heart/images/rank.png" width="1000">
 
 
 **数据预处理**
