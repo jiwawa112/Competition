@@ -4,7 +4,7 @@
 + <https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table>
 
 **竞赛排名**
-+ <img src "https://github.com/jiwawa112/Competition/raw/master/Data-Mining-the-Water-Table/images/rank.png" width="500">
++ <img src="https://github.com/jiwawa112/Competition/raw/master/Data-Mining-the-Water-Table/images/rank.png" width="500">
 
 
 **原始数据存在的一些问题**
